@@ -1,5 +1,5 @@
 import torch
-from utils import get_fi
+from .utils import get_fi
 import numpy as np
 import unittest
 import random
